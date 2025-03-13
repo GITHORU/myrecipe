@@ -1,2 +1,3 @@
 # Ignore macOS scpecial files
 .DS_Store
+.idea
