@@ -12,3 +12,6 @@ This is a second edit made on GitHub :clap:
 This is a local edit made on GitHub 🥇
 
 edit github
+
+This is a local edit made on my computer :computer:
+
