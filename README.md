@@ -13,11 +13,4 @@ This is a local edit made on GitHub 🥇
 
 edit github
 
-This is a local edit made on my computer :computer:
-
-<<<<<<< HEAD
-=======
-This is a local edit made on GitHub 🥇
-
 mod computer
->>>>>>> 57570ad (adding to computer)
