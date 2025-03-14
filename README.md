@@ -8,3 +8,5 @@ In this class we learned git basic consepts in fun exercices
 This is an edit made on GitHub :rocket:
 
 This is a second edit made on GitHub :clap:
+
+This is a local edit made on GitHub 🥇
